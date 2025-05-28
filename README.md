@@ -1,4 +1,4 @@
-⁴# 🌩️ Cloud Opus 4 IA  
+# 🌩️ Cloud Opus 4 IA  
 ### *Una sinfonía digital colaborativa para la era de la inteligencia aumentada*
 
 ---
