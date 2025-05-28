@@ -21,6 +21,12 @@ No puedes:
 
 ---
 
+Cloud Opus 4 IA by Cristhiam Quiñonez | HormigasAIS is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+---
+
 ## 📘 Formalización Legal
 
 Este proyecto se rige bajo los términos de la licencia:  
