@@ -36,3 +36,31 @@ El manifiesto propone una hoja de ruta ética y creativa para el desarrollo cola
 ---
 
 ## 🧩 Estructura del Repositorio
+
+```
+📁 /docs
+📁 /manifesto
+📁 /assets
+📄 index.html
+📄 README.md
+📄 manifesto.md
+```
+
+---
+
+## 🤝 Autor y comunidad
+
+Desarrollado por **Cristhiam Quiñonez**, fundador de HormigasAIS.  
+📌 [LinkedIn](https://www.linkedin.com/in/cristhiamqz) | 🐜 [HormigasAIS](https://www.linkedin.com/company/hormigasais)
+
+---
+
+## ⚡ Colabora o sigue el proyecto
+
+- Haz fork del repositorio
+- Participa en los foros de LinkedIn
+- Aporta ideas, visuales, preguntas o ensayos basados en el manifiesto
+
+---
+
+> "Cloud Opus 4 IA no es solo código. Es un pensamiento, una conexión, una dirección."
