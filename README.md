@@ -1,4 +1,4 @@
-# 🌩️ Cloud Opus 4 IA  
+⁴# 🌩️ Cloud Opus 4 IA  
 ### *Una sinfonía digital colaborativa para la era de la inteligencia aumentada*
 
 ---
@@ -73,6 +73,6 @@ No importa si eres developer, artista, marketer, científico de datos, narrador 
 ✨ *Con la mente curiosa y el corazón dispuesto.*
 
 ---
-
+![Licencia: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
 ![badge](https://img.shields.io/badge/proyecto-experimental-blueviolet?style=flat-square)  
 ![badge](https://img.shields.io/badge/estado-en%20construcci%C3%B3n-orange?style=flat-square)
