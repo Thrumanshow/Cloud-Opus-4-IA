@@ -1,7 +1,7 @@
 # 🌩️ Cloud Opus 4 IA  
 ### *Una sinfonía digital colaborativa para la era de la inteligencia aumentada*
 
----
+--- 
 
 ## 🪶 Manifiesto de Origen
 
