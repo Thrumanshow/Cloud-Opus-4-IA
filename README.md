@@ -1,5 +1,26 @@
 # Cloud Opus 4 IA
 
+
+**Versión 0.2** | Proyecto impulsado por [HormigasAIS]()
+
+> *Un manifiesto digital nacido desde el pensamiento colaborativo. Una nueva era guiada por datos, intuición y automatización ética.*
+
+
+## 🧠 Inspiración + Exploración Este proyecto conversa con tecnologías como: 
+
+- **Anthropic Claude** (IA conversacional con enfoque alineado) 
+
+- **Gemini de Google** (IA multimodal) 
+
+- **Groq** (Aceleradores IA en tiempo real) 
+
+- **LenPT** (lenguaje de exploración modular de HormigasAIS) 
+
+- **Slack + GitHub + n8n** (automatización inteligente) 
+
+
+---
+
 **Versión 0.1** | Proyecto impulsado por [HormigasAIS](https://www.linkedin.com/company/hormigasais)
 
 > *Un manifiesto digital nacido desde el pensamiento colaborativo. Una nueva era guiada por datos, intuición y automatización ética.*
