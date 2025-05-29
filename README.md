@@ -1,7 +1,7 @@
 # Cloud Opus 4 IA
 
 
-**Versión 0.2** | Proyecto impulsado por [HormigasAIS]()
+**Versión 0.2** | Proyecto impulsado por [HormigasAIS](https://github.com/HormigasAIS-ux/Explicaci-n-inicial-del-proyecto-/releases/tag/Explicaci-n-inicial-del-proyecto-%3B)
 
 > *Un manifiesto digital nacido desde el pensamiento colaborativo. Una nueva era guiada por datos, intuición y automatización ética.*
 
